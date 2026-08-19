@@ -25,31 +25,12 @@ The main objective of this project is to use SQL queries to analyze the data and
 - MySQL Workbench
 - Git
 - GitHub
-
 ---
-📂 Project Structure
+Project Structure :
 
-Music-Store-Data-Analysis/
-│
-├── music store data/
-│   ├── album.csv
-│   ├── album2.csv
-│   ├── artist.csv
-│   ├── customer.csv
-│   ├── employee.csv
-│   ├── genre.csv
-│   ├── invoice.csv
-│   ├── invoice_line.csv
-│   ├── media_type.csv
-│   ├── playlist.csv
-│   ├── playlist_track.csv
-│   └── track.csv
-│
-├── query.sql
-├── schema_diagram.png
-└── README.md
+<img width="874" height="1433" alt="Project_Structure" src="https://github.com/user-attachments/assets/7538a70f-a357-4820-ab49-84351f2ba664" />
 
----
+
 🔍 SQL Analysis
 
 The "query.sql" file contains SQL queries used to analyze the Music Store dataset.
@@ -98,7 +79,9 @@ The project uses SQL concepts such as:
 🖼️ Database Schema
 
 The database relationship diagram is available in:
-schema_diagram.png
+
+<img width="594" height="598" alt="schema_diagram" src="https://github.com/user-attachments/assets/25c8000b-29ac-490b-a514-74868710a732" />
+
 It shows the relationships between customers, invoices, tracks, albums, artists, genres, playlists, and other tables.
 
 ---
