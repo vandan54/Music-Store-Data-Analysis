@@ -28,7 +28,7 @@ The main objective of this project is to use SQL queries to analyze the data and
 ---
 Project Structure :
 
-<img width="874" height="1433" alt="Project_Structure" src="https://github.com/user-attachments/assets/7538a70f-a357-4820-ab49-84351f2ba664" />
+<img width="500" height="820" alt="Project_Structure" src="https://github.com/user-attachments/assets/f2619747-6fdf-4c5a-8a40-0f8c2817f1de" />
 
 
 🔍 SQL Analysis
