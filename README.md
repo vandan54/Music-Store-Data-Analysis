@@ -31,6 +31,7 @@ Project Structure :
 <img width="500" height="820" alt="Project_Structure" src="https://github.com/user-attachments/assets/f2619747-6fdf-4c5a-8a40-0f8c2817f1de" />
 
 
+
 🔍 SQL Analysis
 
 The "query.sql" file contains SQL queries used to analyze the Music Store dataset.
@@ -77,7 +78,6 @@ The project uses SQL concepts such as:
 
 ---
 🖼️ Database Schema
-
 The database relationship diagram is available in:
 
 <img width="594" height="598" alt="schema_diagram" src="https://github.com/user-attachments/assets/25c8000b-29ac-490b-a514-74868710a732" />
