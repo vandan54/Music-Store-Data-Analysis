@@ -113,5 +113,3 @@ Through this project, I strengthened my knowledge of:
 - Business-oriented analysis
 - Git and GitHub
 
-
-⭐ If you find this project useful, feel free to explore the SQL queries and dataset.
